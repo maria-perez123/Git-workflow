@@ -3,3 +3,7 @@ body {
   color: white;
   font-weight: bold;
 }
+footer {
+  font-size: 14px;
+  background-color: blueviolet;
+}
